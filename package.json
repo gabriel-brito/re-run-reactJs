@@ -1,0 +1,19 @@
+{
+  "name": "re-run-reactjs",
+  "version": "1.0.0",
+  "description": "ReactJs Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-brito/re-run-reactJs.git"
+  },
+  "author": "Gabriel Santos (Matheus Lima)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-brito/re-run-reactJs/issues"
+  },
+  "homepage": "https://github.com/gabriel-brito/re-run-reactJs#readme"
+}
